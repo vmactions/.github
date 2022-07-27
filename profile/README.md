@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| VM      |      Status          |  GitHub Actions                                |   Supported Releases                                        |  Builder               |  Debug Shell  
+| VM      |      Status          |  GitHub Actions                                |                                           Supported Releases                                        |        Debug Shell              |   Builder  
 |---------|----------------------|------------------------------------------------|-------------------------------------------------------------|------------------------|-------------------------------------------------------------------------
 | FreeBSD | ![Test](https://github.com/vmactions/freebsd-vm/workflows/Test/badge.svg) | [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) |  12.3, 13.0, 13.1 |[shell-freebsd](https://github.com/vmactions/shell-freebsd) | [freebsd-builder](https://github.com/vmactions/freebsd-builder)  |
 | OpenBSD |  ![Test](https://github.com/vmactions/openbsd-vm/workflows/Test/badge.svg) | [vmactions/openbsd-vm](https://github.com/vmactions/openbsd-vm) |  6.9, 7.1 | [shell-openbsd](https://github.com/vmactions/shell-openbsd) | [openbsd-builder](https://github.com/vmactions/openbsd-builder)  |
