@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | VM      |      Status          |  GitHub Actions                                |                       Debug Shell              |   Builder  
-|---------|----------------------|------------------------------------------------|-------------------------------------------------------------|------------------------|-------------------------------------------------------------------------
+|---------|----------------------|------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------
 | FreeBSD | ![Test](https://github.com/vmactions/freebsd-vm/workflows/Test/badge.svg) | [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) |  [shell-freebsd](https://github.com/vmactions/shell-freebsd) | [freebsd-builder](https://github.com/vmactions/freebsd-builder)  |
 | OpenBSD |  ![Test](https://github.com/vmactions/openbsd-vm/workflows/Test/badge.svg) | [vmactions/openbsd-vm](https://github.com/vmactions/openbsd-vm) | [shell-openbsd](https://github.com/vmactions/shell-openbsd) | [openbsd-builder](https://github.com/vmactions/openbsd-builder)  |
 | NetBSD  | ![Test](https://github.com/vmactions/netbsd-vm/workflows/Test/badge.svg) | [vmactions/netbsd-vm](https://github.com/vmactions/netbsd-vm)  |[shell-netbsd](https://github.com/vmactions/shell-netbsd)   | [netbsd-builder](https://github.com/vmactions/netbsd-builder)  |
