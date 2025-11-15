@@ -9,6 +9,7 @@
 | Solaris | ![Test](https://github.com/vmactions/solaris-vm/workflows/Test/badge.svg) | [vmactions/solaris-vm](https://github.com/vmactions/solaris-vm)|  x86_64 | [shell-solaris](https://github.com/vmactions/shell-solaris) | [solaris-builder](https://github.com/vmactions/solaris-builder)  |
 | DragonFlyBSD | ![Test](https://github.com/vmactions/dragonflybsd-vm/workflows/Test/badge.svg) | [vmactions/dragonflybsd-vm](https://github.com/vmactions/dragonflybsd-vm)| x86_64 |  [shell-dragonflybsd](https://github.com/vmactions/shell-dragonflybsd) | [dragonflybsd-builder](https://github.com/vmactions/dragonflybsd-builder)  |
 | omnios | ![Test](https://github.com/vmactions/omnios-vm/workflows/Test/badge.svg) | [vmactions/omnios-vm](https://github.com/vmactions/omnios-vm)|  x86_64  | [shell-omnios](https://github.com/vmactions/shell-omnios) | [omnios-builder](https://github.com/vmactions/omnios-builder)  |
+| OpenIndiana | ![Test](https://github.com/vmactions/openindiana-vm/workflows/Test/badge.svg) | [vmactions/openindiana-vm](https://github.com/vmactions/openindiana-vm)|  x86_64  | [shell-openindiana](https://github.com/vmactions/shell-openindiana) | [openindiana-builder](https://github.com/vmactions/openindiana-builder)  |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
