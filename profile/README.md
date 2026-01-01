@@ -12,6 +12,7 @@
 | DragonFlyBSD <br/> ![Test](https://github.com/vmactions/dragonflybsd-vm/workflows/Test/badge.svg) | [vmactions/dragonflybsd-vm](https://github.com/vmactions/dragonflybsd-vm)| x86_64 |  [AnyVM.org](https://anyvm.org)  |
 | OmniOS <br/> ![Test](https://github.com/vmactions/omnios-vm/workflows/Test/badge.svg) | [vmactions/omnios-vm](https://github.com/vmactions/omnios-vm)|  x86_64  |  [AnyVM.org](https://anyvm.org)  |
 | OpenIndiana <br/> ![Test](https://github.com/vmactions/openindiana-vm/workflows/Test/badge.svg) | [vmactions/openindiana-vm](https://github.com/vmactions/openindiana-vm)|  x86_64  |  [AnyVM.org](https://anyvm.org)  | 
+| Haiku OS <br/> ![Test](https://github.com/vmactions/haiku-vm/workflows/Test/badge.svg) | [vmactions/haiku-vm](https://github.com/vmactions/haiku-vm)|  x86_64  |  [AnyVM.org](https://anyvm.org)  | 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
