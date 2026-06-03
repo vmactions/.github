@@ -16,6 +16,7 @@
 | OmniOS <br/> ![Test](https://github.com/vmactions/omnios-vm/workflows/Test/badge.svg) | [vmactions/omnios-vm@v1](https://github.com/vmactions/omnios-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  |
 | OpenIndiana <br/> ![Test](https://github.com/vmactions/openindiana-vm/workflows/Test/badge.svg) | [vmactions/openindiana-vm@v1](https://github.com/vmactions/openindiana-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 | Haiku OS <br/> ![Test](https://github.com/vmactions/haiku-vm/workflows/Test/badge.svg) | [vmactions/haiku-vm@v1](https://github.com/vmactions/haiku-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
+| Tribblix <br/> ![Test](https://github.com/vmactions/tribblix-vm/workflows/Test/badge.svg) | [vmactions/tribblix-vm@v1](https://github.com/vmactions/haiku-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
