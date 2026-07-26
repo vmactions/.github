@@ -20,6 +20,7 @@
 | Tribblix <br/> ![Test](https://github.com/vmactions/tribblix-vm/workflows/Test/badge.svg) | [vmactions/tribblix-vm@v1](https://github.com/vmactions/tribblix-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 | Blissos(Android) <br/> ![Test](https://github.com/vmactions/blissos-vm/workflows/Test/badge.svg) | [vmactions/blissos-vm@v1](https://github.com/vmactions/blissos-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 | GNU Hurd <br/> ![Test](https://github.com/vmactions/hurd-vm/workflows/Test/badge.svg) | [vmactions/hurd-vm@v1](https://github.com/vmactions/hurd-vm)|  x86_64, i386  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
+| OpenEuler <br/> ![Test](https://github.com/vmactions/openeuler-vm/workflows/Test/badge.svg) | [vmactions/openeuler-vm@v1](https://github.com/vmactions/openeuler-vm)|  x86_64, i386  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
