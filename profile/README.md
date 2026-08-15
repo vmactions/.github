@@ -67,7 +67,8 @@ Pick a system from the table below. Images are built and booted by
 | Ubuntu <br/> ![Test](https://github.com/vmactions/ubuntu-vm/workflows/Test/badge.svg) | [vmactions/ubuntu-vm@v1](https://github.com/vmactions/ubuntu-vm)|  x86_64, aarch64, riscv64, s390x, ppc64le  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 | ReactOS <br/> ![Test](https://github.com/vmactions/reactos-vm/workflows/Test/badge.svg) | [vmactions/reactos-vm@v1](https://github.com/vmactions/reactos-vm)|  i386  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 | Redox OS <br/> ![Test](https://github.com/vmactions/redox-vm/workflows/Test/badge.svg) | [vmactions/redox-vm@v1](https://github.com/vmactions/redox-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
-| RISC OS <br/> ![Test](https://github.com/vmactions/riscos-vm/workflows/Test/badge.svg) | [vmactions/riscos-vm@v1](https://github.com/vmactions/riscos-vm)|  armv7  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
+| RISC OS <br/> ![Test](https://github.com/vmactions/riscos-vm/workflows/Test/badge.svg) | [vmactions/riscos-vm@v1](https://github.com/vmactions/riscos-vm)|  armv7  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  |
+| Plan 9 <br/> ![Test](https://github.com/vmactions/plan9-vm/workflows/Test/badge.svg) | [vmactions/plan9-vm@v1](https://github.com/vmactions/plan9-vm)|  x86_64  |  [debug on error](https://github.com/vmactions/.github/wiki/debug%E2%80%90on%E2%80%90error)  | 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
